@@ -1,0 +1,4 @@
+activity_id,institution_id,source_id,experiment_id,member_id,table_id,variable_id,grid_label,time_range,start_year,end_year,path
+cmip,awi,awi-cm-1-1-mr,historical,r1i1p1f1,amon,huss,gn,185301-185312,185301,185312,
+cmip,awi,awi-cm-1-1-mr,historical,r1i1p1f1,amon,huss,gn,185201-185212,185201,185212,
+cmip,as-rcec,taiesm1,historical,r1i1p1f1,amon,huss,gn,185001-201412,185001,201412,
